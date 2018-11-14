@@ -1,0 +1,23 @@
+{
+  "name": "le-binks",
+  "version": "0.0.0",
+  "description": "A Discord bot for reporting, coordinating, and joining Pokemon Go raids.",
+  "main": "moltres.js",
+  "homepage": "https://github.com/mxw/moltres",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mxw/moltres.git"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.4.2",
+    "erlpack": "github:discordapp/erlpack",
+    "libsodium-wrappers": "^0.7.3",
+    "mysql": "2.15.x",
+    "node-opus": "^0.2.9",
+    "opusscript": "^0.0.6",
+    "sodium": "^2.0.3",
+    "uws": "^9.148.0"
+  }
+}
